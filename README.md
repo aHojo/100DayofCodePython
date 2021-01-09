@@ -7,4 +7,12 @@ Goal is to be a competent programmer - I'm also doing golang, Javascript/TypeScr
 
 
 ## Day #
-- Day 4
+- Day 5 
+
+## Reasons a day was missed
+- Day 5
+  - 3 Solo RHEL server upgrades
+  - Only had time for a javascript project
+  - Kid?
+
+  
