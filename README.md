@@ -7,7 +7,7 @@ Goal is to be a competent programmer - I'm also doing golang, Javascript/TypeScr
 
 
 ## Day #
-- Day 8
+- Day 9
 
 ## Reasons a day was missed
 - Day 5
